@@ -34,4 +34,3 @@ ax2.imshow(copia)
 ax2.set_title('With Contours');
 
 cv2.waitKey(0);
-
