@@ -6,4 +6,4 @@ You can find the paper in which the work has been done in the following link, wh
 
 [Full Paper](Paper/Tesis-Segmentacion-Automatica-de-Parcelas-Agricolas-con-Inteligencia-Artificial-en-Datos-Satelitales.pdf)
 
-Similarly, to support the replication of the implementations, it is possible to find the [packages]() used together with their versions.
+Similarly, to support the replication of the implementations, it is possible to find the [packages](Paper/Requirements.md) used together with their versions.
